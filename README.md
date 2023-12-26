@@ -1,8 +1,8 @@
-### HI GUYS!!!
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&pause=1000&color=0011F7&center=true&vCenter=true&multiline=true&random=false&width=435&height=100&lines=Hello+World!;This+is+Zhijie+Gao's+Github+homepage.)](https://git.io/typing-svg)
+### HI GUYS😄!!!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&pause=1000&color=0011F7&center=true&vCenter=true&multiline=true&random=false&width=800&height=100&lines=Hello+World!;This+is+Zhijie+Gao's+Github+homepage.)](https://git.io/typing-svg)
 
 My interets:
-- LaTeX, R, Central Banking & Monetary Policies, Qigong Calligraphy, China's 1960s, Music...
+- Music, Small-Ball Sports, LaTeX, R, Central Banking & Monetary Policies, Qigong Calligraphy, China's 1960s, Time Series Analysis...
  
 <!--
 **Andygao19/Andygao19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
